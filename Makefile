@@ -1,2 +1,3 @@
-SRCS=
-APPLIST=
+DIRS=Core Enc
+APPLIST=main
+
